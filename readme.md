@@ -1,6 +1,6 @@
-﻿**Curso do [DIO](https://web.dio.me) (BootCamp - Microsoft Azure AI Fundamentals)**
+﻿# **Curso do [DIO](https://web.dio.me) (BootCamp - Microsoft Azure AI Fundamentals)**
 
-Aprendizado de máquina automatizado para previsão de aluguel de bicicletas.
+## Aprendizado de máquina automatizado para previsão de aluguel de bicicletas.
 
 segundo as instruções do passo a passo descrito no link:
 
@@ -84,6 +84,6 @@ continua no link: <https://microsoftlearning.github.io/mslearn-ai-fundamentals/I
   - **100.00 %**
 
 
-![](Aspose.Words.b5aa9093-7a0c-4487-99a8-9d2ed44cd954.001.png)
+![](001.png)
 
-![](Aspose.Words.b5aa9093-7a0c-4487-99a8-9d2ed44cd954.002.png)
+![](002.png)
